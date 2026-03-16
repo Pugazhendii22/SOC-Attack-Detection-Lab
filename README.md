@@ -184,7 +184,7 @@ SOC-Attack-Detection-Lab/
 
 **Pugazhendi**
 - 🌐 [Portfolio](https://pugazhendii22.github.io/Portfolio-/)
-- 💼 [LinkedIn](https://linkedin.com/in/pugazhendii22)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pugazhendi-pugal-b18b443a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 🐙 [GitHub](https://github.com/Pugazhendii22)
 
 ---
