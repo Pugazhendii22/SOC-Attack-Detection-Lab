@@ -183,7 +183,7 @@ SOC-Attack-Detection-Lab/
 ## 👤 Author
 
 **Pugazhendi**
-- 🌐 [Portfolio](https://pugazhendii22.github.io)
+- 🌐 [Portfolio](https://pugazhendii22.github.io/Portfolio-/)
 - 💼 [LinkedIn](https://linkedin.com/in/pugazhendii22)
 - 🐙 [GitHub](https://github.com/Pugazhendii22)
 
